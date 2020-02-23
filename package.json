@@ -1,0 +1,29 @@
+{
+    "name": "conlst",
+    "version": "1.0.0",
+    "description": "MEAN Stack Contactlist App",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Con List OK...\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cmgits/ConList.git"
+    },
+    "keywords": [
+        "Contact",
+        "List"
+    ],
+    "author": "Hari",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cmgits/ConList/issues"
+    },
+    "homepage": "https://github.com/cmgits/ConList#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.2"
+    }
+}
